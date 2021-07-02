@@ -1,4 +1,4 @@
 # My first React project:
-# Todos:-
-check it out in the link below
+# Todos List:-
+check it out here :
     https://ali7979.github.io/Todos/
